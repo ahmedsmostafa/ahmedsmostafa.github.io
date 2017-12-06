@@ -1,1 +1,3 @@
-remote_theme: mmistakes / minimal-mistakes 
+theme: jekyll-theme-architect
+title: [Welcome to Ahmed Mostafa's Github!]
+description: [A trial for me to throw my thoughts somewhere!]
